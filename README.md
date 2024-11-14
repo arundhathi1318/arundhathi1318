@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Naga Arundhathi Jampala</h1>
-<h3 align="center">Computer Science and Business Systems Student | Front-End Developer Enthusiast | Exploring AI and Cloud Technologies</h3>
+<h3 align="center">Computer Science and Business Systems Student | Front-End Developer Enthusiast </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 - 🔭 I’m currently building **scalable, responsive front-end applications with modern UI frameworks**
 
-- 🌱 I’m expanding my skills in **React, TypeScript, and NoSQL databases like MongoDB,** along with **cloud platforms like AWS and GCP**
+- 🌱 I’m expanding my skills in **React, TypeScript, and NoSQL databases like MongoDB**
 
-- 🤝 I’m eager to collaborate on **cutting-edge projects in Artificial Intelligence, Machine Learning, and Natural Language Processing**
+- 🤝 I’m eager to collaborate on **cutting-edge projects in Artificial Intelligence, Machine Learning, and NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arundhathi1318](https://github.com/arundhathi1318)
 
