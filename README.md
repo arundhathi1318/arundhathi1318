@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naga Arundhathi Jampala</h1>
 <h3 align="center">Computer Science and Business Systems Student | Front-End Developer Enthusiast </h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 - 🔭 I’m currently building **scalable, responsive front-end applications with modern UI frameworks**
 
