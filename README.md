@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently building **scalable, responsive front-end applications with modern UI frameworks**
 
-- 🌱 I’m expanding my skills in **React, TypeScript, and NoSQL databases like MongoDB**
-
-- 🤝 I’m eager to collaborate on **cutting-edge projects in Artificial Intelligence, Machine Learning, and NLP**
+- 🌱 I’m expanding my skills in **Next.js, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arundhathi1318](https://github.com/arundhathi1318)
 
