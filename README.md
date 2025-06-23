@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naga Arundhathi Jampala</h1>
-<h3 align="center">CSBS Student | Front-End Developer | UI/UX Enthusiast</h3>
+<h3 align="center">CSBS Student | Web Developer | AI Enthusiast</h3>
 
-🔭 Building responsive web apps · 🌱 Learning Next.js & TypeScript · ⚡ Debugging bugs that were just typos 🤦‍♀️
+🔭 Building responsive web apps · 🌱 Learning Next.js & TypeScript and LLMS as well· ⚡ Debugging bugs that were just typos 🤦‍♀️
 
 
 - 📫 Let’s connect: **arundhathijampala@gmail.com**
