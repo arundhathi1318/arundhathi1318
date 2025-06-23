@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Naga Arundhathi Jampala</h1>
-<h3 align="center"> Third year Computer Science and Business Systems Student | Front-End Developer Enthusiast </h3>
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+<h3 align="center">CSBS Student | Front-End Developer | UI/UX Enthusiast</h3>
 
-- 🔭 I’m currently building **scalable, responsive front-end applications with modern UI frameworks**
+🔭 Building responsive web apps · 🌱 Learning Next.js & TypeScript · ⚡ Debugging bugs that were just typos 🤦‍♀️
 
-- 🌱 I’m expanding my skills in **Next.js, TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/arundhathi1318](https://github.com/arundhathi1318)
 
 - 📫 Let’s connect: **arundhathijampala@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kbEzCvTNhqAJCC6qJE8vtEFbXJrWG9xm/view?usp=sharing](https://drive.google.com/file/d/1kbEzCvTNhqAJCC6qJE8vtEFbXJrWG9xm/view?usp=sharing)
 
-- ⚡ Fun fact **i bug really hard errors in my code , while i miss out on small errors and realize them few minutes and i laugh out loud!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
